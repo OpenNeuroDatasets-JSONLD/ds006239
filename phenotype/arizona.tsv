@@ -1,7 +1,7 @@
-participant_id	Arizona_Raw	Arizona_StS
+participant_id	Arizon/a_Raw	Arizon/a_StS
 sub-1002	100	>100
 sub-1076	98.5	94
-sub-1077		
+sub-1077	n/a	n/a
 sub-1078	100	>100
 sub-1079	100	>100
 sub-1080	100	>100
@@ -44,7 +44,7 @@ sub-1191	100	>100
 sub-1192	100	>100
 sub-1193	100	>100
 sub-1194	100	>100
-sub-1195		
+sub-1195	n/a	n/a
 sub-1196	100	>100
 sub-1197	100	>100
 sub-1198	100	>100
@@ -83,6 +83,7 @@ sub-1278	99.5	>100
 sub-1283	100	>100
 sub-1284	100	>100
 sub-1285	100	>100
+sub-1286	100	>100
 sub-1287	100	>100
 sub-1288	100	>100
 sub-1289	100	>100

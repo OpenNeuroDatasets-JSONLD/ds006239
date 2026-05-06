@@ -4,6 +4,10 @@
     "TermURL": "https://www.etymotic.com/product/bkb-sin/",
     "Citation": "Bamford-Kowal-Bench Speech-in-Noise Test (Version 1.03) [Audio CD]. (2005)."
   },
+  "participant_id": {
+    "LongName": "Subject ID Numbers",
+    "Description": "ID associated with each participant"
+  },
    "Otoscopy": {
     "LongName": "Otoscopy check",
     "Description": "Whether ear canal was clear or not clear"

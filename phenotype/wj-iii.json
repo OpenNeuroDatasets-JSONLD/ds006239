@@ -4,6 +4,10 @@
     "TermURL": "http://cps.nova.edu/~cpphelp/WJIII-ACH.html",
     "Citation": "Woodcock, R.W., Mather, N., & Schrank, F.A. (2004). Woodcock-Johnson III. Rolling Meadows, IL: Riverside Publishing."
   },
+  "participant_id": {
+    "LongName": "Subject ID Numbers",
+    "Description": "ID associated with each participant"
+  },
   "WJ-III_WordID_Raw": {
     "LongName": "WJ-III Letter-Word Identification Raw Score",
     "Description": "Letter-Word Identification subtest raw score"

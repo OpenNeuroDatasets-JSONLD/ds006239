@@ -15,13 +15,12 @@
     "child_gender": {
         "LongName": "Child gender identity",
         "Description": "What is your child's gender?",
-        "DataType": "string",
         "Levels": {
-            "": "Missing or not reported",
             "1": "Male",
             "2": "Female",
             "3": "Non-Binary",
-            "4": "Other (Please describe)"
+            "4": "Other (Please describe)",
+            "": "No response"
         }
     },
     "child_race___1": {
@@ -83,10 +82,10 @@
     "child_ethnicity": {
         "LongName": "Child ethnicity",
         "Description": "What is your child's ethnicity? (Select all that apply)",
-        "DataType": "string",
         "Levels": {
-            "0": "Unchecked",
-            "1": "Checked"
+            "1": "Hispanic or Latino",
+            "2": "Not Hispanicor Latino",
+            "3": "Choose not to report"
         }
     },
     "child_best_identifier___1": {
@@ -211,23 +210,21 @@
     "eye_wear": {
         "LongName": "Eyewear",
         "Description": "Does your child prefer to use glasses or contacts?",
-        "DataType": "string",
         "Levels": {
-            "": "Missing or not reported",
             "1": "Glasses",
             "2": "Contacts",
-            "3": "Both"
+            "3": "Both",
+            "": "No response"
         }
     },
     "type_of_corrective_lenses": {
         "LongName": "Corrective lenses use",
         "Description": "Describe the type of corrective lenses your child uses.",
-        "DataType": "string",
         "Levels": {
-            "": "Missing or not reported",
             "1": "Far Sighted (needs for reading and focusing on close distances)",
             "2": "Near Sighted (needs for focusing on objects at far distances)",
-            "3": "Both Close and Far Distances"
+            "3": "Both Close and Far Distances",
+            "": "No response"
         }
     },
     "neuro_disease": {
@@ -394,5 +391,14 @@
             "0": "Unchecked",
             "1": "Checked"
         }
+    },
+    "parent_notes": {
+        "LongName": "Parent Notes",
+        "Description": "Notes clarifying eligbility from parents"
+     },
+    "notes_eligbility": {
+        "LongName": "Eligibility Notes",
+        "Description": "Notes clarifying eligbility from interactions with parents"
+
     }
 }
